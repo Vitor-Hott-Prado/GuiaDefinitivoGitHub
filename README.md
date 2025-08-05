@@ -1,5 +1,5 @@
 # Guia Definitivo Git e GitHub
-- Git => Sofware de Versionamento Loca => Faz o controçe de Versões de Arquivo e Pastas de um Projeto de Foma Local,(Git Commit)     
+- Git => Sofware de Versionamento Local => Faz o controçe de Versões de Arquivo e Pastas de um Projeto de Foma Local,(Git Commit)     
 ---------------------------------------------------------------
 
 
